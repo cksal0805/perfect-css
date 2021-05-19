@@ -16,3 +16,8 @@ online tutorials 유튜브 선생님의 아이디어를 보고 만들어보았�
 hover animation 입니다!
 
 <img src="./images/frame.png" alt="frame">
+
+### 🐥 돌아가는지구
+[코드](https://github.com/cksal0805/perfect-css/tree/main/star)
+
+<img src="./images/star.png" alt="star">
